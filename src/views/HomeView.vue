@@ -206,7 +206,7 @@
       <v-col cols="12" class="text-center mt-16">
         <p class="text-h5 font-weight-bold">Millions trust GigSalad to electrify <br> their events.</p>
       </v-col>
-      <v-col lg="2" v-if="$vuetify.display.lg"></v-col>
+      <v-col lg="2"></v-col>
       <v-col lg="2" class="mt-16" cols="12" md="3" sm="6">
         <v-img height="30" src="https://cress.gigsalad.com/images/testimonials/logo--americas-got-talent--106w.png"></v-img>
       </v-col>
@@ -219,9 +219,9 @@
       <v-col lg="2" class="mt-16" cols="12" md="3" sm="6">
         <v-img height="30" src="https://cress.gigsalad.com/images/testimonials/logo--cbs--84w.png"></v-img>
       </v-col>
-      <v-col lg="2" v-if="$vuetify.display.lg" cols="12" md="3" sm="6">
+      <v-col lg="2" cols="12" md="3" sm="6">
       </v-col>
-      <v-col lg="2" v-if="$vuetify.display.lg"></v-col>
+      <v-col lg="2"></v-col>
       <v-col lg="2" class="mt-16" cols="12" md="3" sm="6">
         <v-img height="30"  src="https://cress.gigsalad.com/images/testimonials/logo--microsoft--188w.png"></v-img>
       </v-col>
