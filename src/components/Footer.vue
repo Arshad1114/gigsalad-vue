@@ -1,6 +1,6 @@
 <template>
   <v-row style="background-color:#242a2e;" >
-    <v-col lg="2" v-if="$vuetify.display.lg"></v-col>
+    <v-col lg="2"></v-col>
     <v-col lg="1" cols="12" class="text-right ml-10 mt-7">
       <v-img src="https://cress.gigsalad.com/images/logo.svg" class="ma-5" max-width="60"></v-img>  
     </v-col>
